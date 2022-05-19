@@ -1,4 +1,4 @@
-# App download download
+# App download redirect
 
 This script is deployed at https://friency-official.github.io/download/ and its goal is to redirect the customer to the right download page, depending on his Operating System. (either Appstore, Google Play or just the friency site)
 
